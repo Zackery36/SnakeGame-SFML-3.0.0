@@ -1,7 +1,7 @@
 # Snake Game SFML
 
 **Plateforme :** Windows 10/11 64‑bit  
-**Langage :** C++17, SFML 3.0  
+**Langage :** C++20, SFML 3.0  
 
 ## Compilation
 
@@ -12,8 +12,8 @@
 ## Lancement
 
 Après compilation, vous trouverez :
-- `bin\Debug\SnakeGame.exe`
-- `bin\Release\SnakeGame.exe`
+- `x64\Debug\SnakeGame.exe`
+- `x64\Release\SnakeGame.exe`
 
 > **Important :** Copiez le dossier `data/`  
 > (polices, icône, etc.) à côté de l’exécutable  
